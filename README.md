@@ -12,8 +12,8 @@
 </head>
 <body>
   <h1>🎉 Send a Birthday Wish 🎉</h1>
-  <form id="wishForm">
-    <input type="text" id="sender" placeholder="Your Name" required><br>
+  <form id="Happy Birthday">
+    <input type="Happy Birthday" id="Nooriya" placeholder="Noufa" required><br>
     <input type="text" id="receiver" placeholder="Recipient's Name" required><br>
     <textarea id="message" placeholder="Your Birthday Message" rows="4" required></textarea><br>
     <button type="submit">Create Wish</button>
